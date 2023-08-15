@@ -1,5 +1,7 @@
 # Test-Mobile-App
 
+Note: issue trouble locating gomobile in gopath/bin - exe is present in bin
+
 https://pkg.go.dev/golang.org/x/mobile/cmd/gomobile
 
 https://pkg.go.dev/golang.org/x/mobile/app
